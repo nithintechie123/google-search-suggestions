@@ -1,0 +1,17 @@
+.suggestion-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+}
+
+.suggestion-caption {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+
+.arrow-image {
+  height: 20px;
+  width: 20px;
+}
